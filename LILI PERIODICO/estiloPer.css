@@ -1,0 +1,48 @@
+body{
+    font-size:12px;
+    text-align: center;
+    background-image: url(ImgPag/tribuu.jpg);
+}
+
+
+#header{
+     margin-top: 10px;
+     height:35px;
+     width: 50%;
+     padding: 1px 965px;
+}
+
+#menu{
+    height:334px;
+    width: 98%;
+    padding: 5px 10px;
+    padding-right: 20px; 
+    margin-top: 1px;
+ }
+
+#barra_lateral,#contenido{
+    display: inline-block;
+    vertical-align: middle;
+}
+#barra_lateral{
+    background-color:transparent;
+    width: 20%;
+    min-height:1000px;
+    margin-top: 105px;
+}
+#contenido{
+    background-color:rgba(0,0,8,.4);
+    width: 78%;
+    min-height: 300px;
+    margin-top: 43px;
+    
+        
+}
+#pie{
+    background-color: pink;
+    border-top:1px solid #cccccc;
+    min-height: 100px;
+    margin-top: 10px;
+    background-image: url(ImgPag/portada.jpg);
+        
+}
